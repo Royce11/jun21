@@ -14,6 +14,7 @@ return "gracias";
 return "por favor";
 
 spanish
+german
 
 
 }
