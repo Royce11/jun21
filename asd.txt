@@ -1,0 +1,19 @@
+
+  package com.training
+
+
+public class Greeting{
+
+public string getMessage(){
+
+	return "buenos dias mi amor :-)";
+}
+
+return "gracias";
+
+return "por favor";
+
+spanish
+
+
+}
