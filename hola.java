@@ -6,12 +6,11 @@ public class Greeting{
 
 public string getMessage(){
 
-	return "Hola Amigos.Feeling Cold !!";
+	return "buenos dias mi amor :-)";
 }
 
 public double getAm(){
 
-	return "si" ;
 	retun "gracias";
 }
 
