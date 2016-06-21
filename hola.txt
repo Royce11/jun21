@@ -9,4 +9,6 @@ public string getMessage(){
 	return "buenos dias mi amor :-)";
 }
 
+return "gracias";
+
 }
